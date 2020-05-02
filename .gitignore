@@ -1,0 +1,10 @@
+
+*.jpg
+
+*.zip
+
+/files/
+*/target/*
+*.class
+*.jar
+/.idea/*
