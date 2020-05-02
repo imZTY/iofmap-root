@@ -1,0 +1,18 @@
+# 公共配置文件
+
+spring:
+  profiles:
+    # 环境 dev|test|prod
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 300MB
+      max-request-size: 320MB
+
+mybatis:
+  typeAliasesPackage: com.zhihao.account.dao,com.zhihao.mapfile.dao
+#  mapperLocations: classpath:mapper/*Mapper.xml
+  mapperLocations: classpath:mapperA/*Mapper.xml,classpath:mapperB/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true
+

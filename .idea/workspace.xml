@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8448d252-5967-4da4-b3e9-cb08b66eac35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\JetBrains\repository" />
+        <option name="userSettingsFile" value="D:\Program Files\JetBrains\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akOumRRv4zW32fWqsAvFyTHITd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/customer/service-customer/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zhihao.mapfile.service.impl" />
+      <recent name="com.zhihao.account.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\customer\service-customer\src\main\resources" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\customer\service-customer\src\main\java\com\zhihao\customer" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\customer\customer-web\src\main\resources" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\common\common-facade\src\main\java\com\zhihao\common\DO" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\common\common-facade\src\main\java\com\zhihao\common\do" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhihao.common.dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\mapfile\mapfile-bo\src\main\resources\mapper" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\mapfile\mapfile-bo\src\main\resources" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\account\account-bo\src\main\resources\mapper" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\mapfile\mapfile-bo\src\main\java\com\zhihao\mapfile\dao" />
+      <recent name="F:\study\jidi\project\iofmap\iofmap-root\account\account-bo\src\main\java\com\zhihao\account\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceCustomerApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="customer-web0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhihao.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhihao.customer.CustomerWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhihao.customer.ServiceCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CustomerWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8448d252-5967-4da4-b3e9-cb08b66eac35" name="Default Changelist" comment="" />
+      <created>1587276349127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587276349127</updated>
+      <workItem from="1587276350616" duration="19858000" />
+      <workItem from="1587298941679" duration="2834000" />
+      <workItem from="1587301783867" duration="5465000" />
+      <workItem from="1588305548537" duration="12643000" />
+      <workItem from="1588340877318" duration="6189000" />
+      <workItem from="1588353794585" duration="2344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="163" width="1162" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587306043636">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="409" y="163" width="1162" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587306043636" />
+    <state x="717" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1587293851917">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1587293851917" />
+    <state x="453" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587279783018">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="453" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587279783018" />
+    <state width="1864" height="339" key="GridCell.Tab.0.bottom" timestamp="1588348932290">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932290" />
+    <state width="1864" height="339" key="GridCell.Tab.0.center" timestamp="1588348932290">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932290" />
+    <state width="1864" height="339" key="GridCell.Tab.0.left" timestamp="1588348932290">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932290" />
+    <state width="1864" height="339" key="GridCell.Tab.0.right" timestamp="1588348932290">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932290" />
+    <state width="1864" height="339" key="GridCell.Tab.1.bottom" timestamp="1588348932291">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932291" />
+    <state width="1864" height="339" key="GridCell.Tab.1.center" timestamp="1588348932291">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932291" />
+    <state width="1864" height="339" key="GridCell.Tab.1.left" timestamp="1588348932291">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932291" />
+    <state width="1864" height="339" key="GridCell.Tab.1.right" timestamp="1588348932291">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="339" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588348932291" />
+    <state x="373" y="88" key="Maven.ArtifactSearchDialog" timestamp="1587282589335">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="373" y="88" key="Maven.ArtifactSearchDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587282589335" />
+    <state x="339" y="56" key="SettingsEditor" timestamp="1587276384884">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="339" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1587276384884" />
+    <state x="254" y="177" width="1617" height="696" key="new project wizard" timestamp="1587306487902">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="254" y="177" width="1617" height="696" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1587306487902" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587300119409">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1587300119409" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/account/account-bo/src/main/java/com/zhihao/account/service/impl/UserServiceImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
